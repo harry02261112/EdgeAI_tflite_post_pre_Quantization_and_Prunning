@@ -1,4 +1,4 @@
-# EdgeAI_tflite_post_pre_Quantization_and_Prunning
+# EdgeAI_tflite_post_pre_Quantization_and_Pruning
 
 Comparing the size and accuracy of different structure of CNN after:
 1. Converting into tflite
